@@ -1,22 +1,13 @@
 # 👋 Hi there, Welcome  
 
-👨‍💻 About Me
-
-My name is Given Moselakgomo, and I’m driven by a genuine passion for Machine Learning, Artificial Intelligence, and Data Engineering. I’m fascinated by how data can be transformed into intelligent systems that solve real problems and create meaningful change.
-
-I thrive on building end-to-end data solutions, experimenting with new technologies, and constantly pushing myself to understand how different tools, models, and architectures fit together to create value. I enjoy the challenge of turning raw, unstructured information into insights, predictions, and automated workflows that make a real-world impact.
-
-What excites me most is the combination of creativity and logic in the data field — the ability to design systems, think critically, experiment fearlessly, and continuously learn. Every project teaches me something new, and every problem presents an opportunity to grow.
+I’m Given Moselakgomo, an aspiring South African data professional with a growing passion for Machine Learning, AI, and Data Engineering. I’m inspired by the potential of data to solve real problems, and I’m continuously developing my skills to build intelligent, impactful systems. I love exploring new tools, experimenting with models, and understanding how technology can be used to create meaningful change. Curiosity drives me forward, and every project strengthens my desire to learn, improve, and contribute to the future of intelligent systems. 🚀
 
 I’m motivated by curiosity, fuelled by continuous learning, and inspired by the future of intelligent systems.
 If it involves data, innovation, or building something meaningful, I’m fully in. 🚀
 
 ## 🎓 Education
 
-I completed my **Postgraduate Diploma in Data Science** at the University of Stellenbosch, where I strengthened my foundation in analytics, machine learning, deep learning, big-data systems, and optimisation.  
-I approached every module with genuine curiosity and a passion for understanding how data can create meaningful, real-world impact.  
-This programme pushed me to think critically, learn independently, and continuously refine my technical skills through hands-on projects and practical application.  
-It cemented my interest in building intelligent, scalable solutions and motivated me to keep exploring the fast-evolving world of AI, ML, and data engineering.
+I completed my Postgraduate Diploma in Data Science at the University of Stellenbosch, where I built a strong foundation in analytics, machine learning, deep learning, big-data systems, and optimisation. This programme sparked my ambition to grow even further in the data field. It encouraged independent learning, critical thinking, and hands-on problem-solving, and it reinforced my commitment to becoming a skilled data practitioner capable of building smart, scalable, and meaningful solutions.
 
 ---
 
