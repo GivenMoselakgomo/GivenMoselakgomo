@@ -10,21 +10,6 @@ If it involves data, innovation, or building something meaningful, I’m fully i
 I completed my Postgraduate Diploma in Data Science at the University of Stellenbosch, where I built a strong foundation in analytics, machine learning, deep learning, big-data systems, and optimisation. This programme sparked my ambition to grow even further in the data field. It encouraged independent learning, critical thinking, and hands-on problem-solving, and it reinforced my commitment to becoming a skilled data practitioner capable of building smart, scalable, and meaningful solutions.
 
 ---
-
-### 📘 Modules Completed
-
-| Module | Final Mark |
-|-------|------------|
-| 📊 **Data Analytics (Eng) 774** | **74** |
-| 🔧 **Optimisation (Eng) 774** | **67** |
-| 🤖 **Applied Machine Learning 774** | **81** |
-| 🗄️ **Big Data Technologies (Eng) 774** | **80** |
-| 📈 **Data Science (Eng) 774** | **73** |
-| 🧠 **Applied Deep Learning 774** | **75** |
-| 📅 **Project Management 713** | **73** |
-| 🏭 **Industrial Management 744** | **64** |
-| ✍️ **Professional Communication 771** | **Duly Performed** |
-
 ## 🌱 What I’m Interested In  
 - **Machine Learning & AI**  
 - **Data Engineering & Pipelines**  
